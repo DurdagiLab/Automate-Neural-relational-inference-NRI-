@@ -14,10 +14,10 @@ import runpy
 import re
 import numpy as np
 
-nri_path= 'C:/Users/ehsan/Desktop/NRI_HITMER/NRI_pdb/wt/'
+nri_path= 'path to wt folder/wt/'
 # import convert_dataset as cd
 
-path= 'C:/Users/ehsan/Desktop/NRI_HITMER/NRI_pdb/'
+path= 'path to pdb files/NRI_pdb/'
 os.chdir(path)
 files= glob.glob('*-1.pdb')
 

@@ -1,0 +1,1 @@
+ligand ve protein 87+70 residue, 20 step 250 exp

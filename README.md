@@ -30,3 +30,7 @@ When running the `Auto_NRI` script, you will be prompted to enter:
 
 - A CSV file containing the energy scores for all the MD simulations processed by NRI.
 - A plot displaying the training and validation loss over epochs to monitor the model's performance.
+
+## Cite
+
+- **Please cite our publication: Deep Learning-Driven Discovery of FDA-Approved BCL2 Inhibitors: In Silico Analysis Using a Deep Generative Model NeuralPlexer for Drug Repurposing in Cancer Treatment (doi: https://doi.org/10.1101/2024.07.15.603544)**
